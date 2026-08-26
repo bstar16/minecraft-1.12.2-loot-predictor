@@ -1,0 +1,21 @@
+# Build outputs
+/build/
+/MinecraftLootPredictor.jar
+
+# Mojang runtime downloaded by setup.bat (never redistribute)
+/runtime/*.jar
+
+# Vanilla replay/server output
+/logs/
+/replay-*/
+/world/
+/crash-reports/
+/eula.txt
+/server.properties
+
+# Editor and OS files
+/.idea/
+/.vscode/
+*.iml
+.DS_Store
+Thumbs.db
